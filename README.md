@@ -5,7 +5,7 @@
 
 ![Image](https://github.com/Jumbee1573/jumbee1573.github.io/blob/master/task_tracker.png)
 
-Используемые технологии:
+### Используемые технологии:
 * axios
 * bootstrap
 * cookie
@@ -15,14 +15,14 @@
 * redux
 * redux-localstorage
  
-Ссылка на проект: https://jumbee1573.github.io/todo
+### Ссылка на проект: https://jumbee1573.github.io/todo
 
-Данные для пользователя при авторизации:
+### Данные для пользователя при авторизации:
 * login: "test1@dev.com", password: "password1"
 * login: "test2@dev.com", password: "password2"
 * login: "test3@dev.com", password: "password3"
 
-Задачи:
+### Задачи:
 
 1) **+** Сверстай по образу и подобию. Цветовая гамма и расположение блоков могут
 отличаться, но структура и функциональные блоки должны быть сохранены. 
