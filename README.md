@@ -6,7 +6,6 @@
 ![Image](https://github.com/Jumbee1573/jumbee1573.github.io/blob/master/task_tracker.png)
 
 ### Используемые технологии:
-* axios
 * bootstrap
 * cookie
 * sass(scss)
